@@ -1,5 +1,5 @@
 # SpaceHoPHelper14
-Инструмент для игры Space Station 14, который позволит вам эффективнее работать с документами на базе сервера Corvax.
+Инструмент для игры Space Station 14, который позволит вам эффективнее работать с документами на базе сервера Lust Station.
 
 # Как пользоваться
 https://steamcommunity.com/sharedfiles/filedetails/?id=3138756491
@@ -38,6 +38,6 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=3138756491
                     * `templates` - содержит шаблоны, которые отображаются в строке или в ряду
                         * `title` - наименование шаблона, которое отображается возле кнопок копирования и сохранения шаблона
                         * `template` - содержит шаблон в формате [блочной скалярной строки](https://kb.novaordis.com/index.php/Strings_in_YAML#Block_Scalar_Chomping).
-        > Рекомендую посмотреть профиль Corvax, шаблоны из группы «[📦 Заказы](./blob/c6d32ca8a82ca0bfb0a5084df63b38eac835a2b6/assets/profiles/corvax.yaml#L1376)» для чего нужны необходимы категории, подкатегории и прочее.
+и прочее.
 
 > Если ничего не понятно, смотрите готовый профиль.
